@@ -1,0 +1,1 @@
+This DMO folder has three subfolders SWBE011-01 Windows_DMo_Msr1, SWBE011-01 Windows_DMo_Msr2, SWBE011-01 Windows_DMo_Msr3. The measure parameters are climate-zone dependent. So, each subfolder contains the measure parameters and the climate zones related to the U-factor and SHGC specified in the case files.
